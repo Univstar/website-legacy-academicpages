@@ -11,37 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.S. in Computer Science**, 2020
+  * School of Electronics Engineering and Computer Science, Peking University
+* **B.S. in Physics (Dual Degree)**, 2020
+  * School of Physics, Peking University
+* **Ph.D in Computer Science**, 2025 (expected)
+  * Center on Frontiers of Computing Studies, Peking University
+  * Supervisor: [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Assistant**, 2018-2021
+  * Advanced Innovation Center for Future Visual Entertainment, Beijing Film Academy
+  * Supervisor: [Bin Wang](https://binwangbfa.github.io/)
+* **Research Assistant**, Summer 2019
+  * Department of Computer Science, Dartmouth College
+  * Supervisor: [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +50,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
