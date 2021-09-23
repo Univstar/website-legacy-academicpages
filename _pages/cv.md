@@ -28,6 +28,13 @@ Work experience
   * Department of Computer Science, Dartmouth College
   * Supervisor: [Bo Zhu](https://cs.dartmouth.edu/~bozhu/)
 
+Interests
+======
+* Computer Graphics
+  * Physical Simulation
+  * Physically Based Rendering
+* Computational Physics
+
 Publications
 ======
   <ul>{% for post in site.publications %}
