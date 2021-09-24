@@ -14,4 +14,4 @@ The COVID-19 (formerly, 2019-nCoV) epidemic has become a global health emergency
 
 ## Links
 
-\[[Paper](https://arxiv.org/pdf/2002.07096v3)]\]
+\[[Paper](https://arxiv.org/pdf/2002.07096v3)\]
