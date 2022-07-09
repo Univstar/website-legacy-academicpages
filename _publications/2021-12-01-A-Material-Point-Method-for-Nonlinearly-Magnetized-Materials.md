@@ -15,3 +15,5 @@ We propose a novel numerical scheme to simulate interactions between a magnetic 
 ## Links
 
 \[[Paper](http://Univstar.github.io/files/siga21magnetic.pdf)\]
+
+\[[Video (YouTube)](https://youtu.be/2zqJ1wvverA)\] \[[Video (bilibili)](https://www.bilibili.com/video/BV1a44y1e76n)\] 

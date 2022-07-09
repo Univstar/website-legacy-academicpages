@@ -3,7 +3,7 @@ title: "Simulation and Optimization of Magnetoelastic Thin Shells"
 collection: publications
 permalink: /publication/2022-07-01-Simulation-and-Optimization-of-Magnetoelastic-Thin-Shells
 excerpt: 'Magnetoelastic thin shells exhibit great potential in realizing versatile functionalities through a broad range...'
-date: 2020-07-08
+date: 2022-07-01
 venue: 'ACM Transactions on Graphics (TOG)'
 paperurl: 'https://doi.org/10.1145/3386569.3392445'
 citation: 'Xuwen Chen, <b>Xingyu Ni</b>, Bo Zhu, Bin Wang, and Baoquan Chen. 2022. Simulation and optimization of magnetoelastic thin shells. <i>ACM Trans. Graph</i>. 41, 4, Article 61 (July 2022), 18 pages.'
