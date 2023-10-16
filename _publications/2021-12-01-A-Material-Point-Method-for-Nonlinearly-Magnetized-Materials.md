@@ -6,7 +6,7 @@ excerpt: 'We propose a novel numerical scheme to simulate interactions between a
 date: 2021-12-01
 venue: 'ACM Transactions on Graphics (TOG)'
 paperurl: 'https://doi.org/10.1145/3478513.3480541'
-citation: 'Yuchen Sun*, <b>Xingyu Ni</b>* (joint 1st authors), Bo Zhu, Bin Wang, and Baoquan Chen. 2021. A material point method for nonlinearly magnetized materials. <i>ACM Trans. Graph</i>. 40, 6, Article 1 (December 2021), 13 pages.'
+citation: 'Yuchen Sun*, <b>Xingyu Ni</b>* (joint 1st authors), Bo Zhu, Bin Wang, and Baoquan Chen. 2021. A material point method for nonlinearly magnetized materials. <i>ACM Trans. Graph</i>. 40, 6, Article 205 (December 2021), 13 pages.'
 ---
 ## Abstract
 
