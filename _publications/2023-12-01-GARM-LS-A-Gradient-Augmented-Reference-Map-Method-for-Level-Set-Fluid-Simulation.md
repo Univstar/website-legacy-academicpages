@@ -15,3 +15,5 @@ This paper presents a novel level-set method that combines gradient augmentation
 ## Links
 
 \[[Paper](http://Univstar.github.io/files/siga23levelset.pdf)\]
+
+\[[Video (YouTube)](https://youtu.be/EN2_eJ98dPg)\] \[[Video (bilibili)](https://www.bilibili.com/video/BV1Cu4y1t7tn)\] 
